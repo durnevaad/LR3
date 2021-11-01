@@ -24,14 +24,15 @@ if (isset($_POST["obr"])) {
  break;
  case 2:
  // 2 — вычесть
-$s= $_POST["a"]-$_POST["b"];
-case 3:
- // 3 - умножить
-$s= $_POST["a"]*$_POST["b"];
+ $s= $_POST["a"]-$_POST["b"];
+ break;
+ case 3:
+ // 3 — умножить
+ $s= $_POST["a"]*$_POST["b"];
  break;
  case 4:
- // 4 - разделить
-$s= $_POST["a"]/$_POST["b"];
+ // 4 — разделить
+ $s= $_POST["a"]/$_POST["b"];
  break;
 }
 echo ("Результат = $s");
