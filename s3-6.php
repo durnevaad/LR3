@@ -1,4 +1,4 @@
-﻿<HEAD> <TITLE> Дурнева А.Д. </TITLE> </HEAD>
+﻿<title>Дурнева А.Д.</title>
 <b>Задача 3.6</b><br>
 <?
 echo ("6-е задание: <br>") ;
@@ -31,3 +31,4 @@ echo join (array_unique(str_split($text)));
 echo ("<br><br>10-е задание: <br>") ;
 echo strtoupper ($text);
 ?>
+<p><a href="s3-6.html">Вернуться назад</a></p>

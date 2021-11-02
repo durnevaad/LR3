@@ -1,7 +1,7 @@
-﻿<b>Задача 3.5</b><br>
+﻿<title>Дурнева А.Д.</title>
+<b>Задача 3.5</b><br>
 <b>Анкета "Ваш характер"</b><br>
 <HTML>
-<HEAD> <TITLE> Дурнева А.Д. </TITLE> </HEAD>
 <BODY>
 <FORM method="post" action="<?php print $PHP_SELF ?>">
 Введите ваше имя: <INPUT type="text" name="a" size="30">
@@ -94,3 +94,4 @@ echo ('<br> Ваш результат: '.$sum. ' баллов.');
 }
 ?>
 </BODY> </HTML>
+<p><a href="navig.php">Вернуться назад</a></p>

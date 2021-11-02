@@ -1,4 +1,5 @@
-﻿<b>Упражнение 3-7</b><br>
+﻿<title>Дурнева А.Д.</title>
+<b>Упражнение 3-7</b><br>
 <HTML>
 <HEAD> <TITLE> Угадай число </TITLE> </HEAD>
 <BODY>
@@ -18,3 +19,4 @@ if ($_POST["a"]==$_POST["h"]) { echo($_POST["a"]." - УГАДАЛИ!");
  } }
 ?>
 </BODY> </HTML>
+<p><a href="navig.php">Вернуться назад</a></p>

@@ -1,4 +1,5 @@
-﻿<b>Задача 3.3</b><br>
+﻿<title>Дурнева А.Д.</title>
+<b>Задача 3.3</b><br>
 <HTML>
 <HEAD> <TITLE> Дурнева А.Д. </TITLE> </HEAD>
 <BODY>
@@ -73,3 +74,4 @@ echo "Все делители числа " . $_POST["a"] . ": ";
 }
 ?>
 </BODY> </HTML>
+<p><a href="navig.php">Вернуться назад</a></p>
